@@ -1,0 +1,9 @@
+/__pycache__
+/models/__pycache__
+/models/clip/__pycache__
+/deepfake_datasets/__pycache__
+/train/__pycache__
+/utils/__pycache__
+/experiments
+/notebooks/training_metrics_outputs
+/utils/declip_utils.py
